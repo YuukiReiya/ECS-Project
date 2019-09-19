@@ -72,6 +72,7 @@
     <Compile Include="Assets\Scripts\MySamples\ECS\Fall.cs" />
     <Compile Include="Assets\Scripts\MySamples\ECS\FallProxy.cs" />
     <Compile Include="Assets\Scripts\MySamples\ECS\FallSystem.cs" />
+    <Compile Include="Assets\Scripts\MySamples\ECS\HybridSpawner\Spawner.cs" />
     <Compile Include="Assets\Scripts\MySamples\ECS\Spawner.cs" />
     <Compile Include="Assets\Scripts\MySamples\ECS\SpawnerProxy.cs" />
     <Compile Include="Assets\Scripts\MySamples\ECS\SpawnerSystem.cs" />
